@@ -217,7 +217,7 @@ mvn test
 
 ## Swagger
 
-`localhost:8080/swagger-ui.html`
+`localhost:8080/api/swagger-ui.html`
 
 -----
 
@@ -446,7 +446,7 @@ mvn test
 ---
 
 ## Swagger
-`localhost:8080/swagger-ui.html`
+`localhost:8080/api/swagger-ui.html`
 
 ---
 
